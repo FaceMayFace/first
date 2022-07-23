@@ -1,0 +1,7 @@
+#Tue May 24 16:22:57 CST 2022
+base.0=D\:\\ive\\java3\\ChoiKaLok_Lab02A\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\ive\\java3\\ChoiKaLok_Lab02A\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
